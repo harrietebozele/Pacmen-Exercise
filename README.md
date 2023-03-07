@@ -4,7 +4,7 @@ This is a simple exercise curated to make a pacman factory and watch them move b
 to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
 
 ## Running the program
-In order to run this program and see your pacman or pacmen in action, drag the starter.html file to your browser and click the buttons as explained above
+In order to run this program and see your pacman or pacmen in action, drag the index.html file to your browser and click the buttons as explained above
 
 
 
